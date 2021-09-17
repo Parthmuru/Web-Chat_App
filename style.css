@@ -1,0 +1,18 @@
+body{
+    background-image: url("body.jpg");
+}
+
+#iconi{
+    margin-top: 240px;
+    background-color: transparent;
+}
+
+#add{
+    margin-top: 20px;
+    color: black;
+    background-color: transparent;
+}
+
+#user{
+    margin-top: 20px;
+}
